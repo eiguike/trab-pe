@@ -1,5 +1,5 @@
 #gráfico de distribuição acumulada caso discreto - escada (R)
-dados <- read.csv(file="/home/floss/Desenvolvimento/trab-pe/2/3.csv",header=TRUE)
+dados <- read.csv(file="/home/floss/Desenvolvimento/trab-pe/3/3.csv",header=TRUE)
 plot(ecdf(dados$commits), main = 'Frequência acumulada por Commits\n2014/1-2014/3',
      xlab = 'Commits', ylab = 'Semestre',
      yaxt='n')
