@@ -1,0 +1,24 @@
+Oi pessoal
+
+ A entrega da atividade 2 prevista para amanhã 28/09, será adiada para 5/10.
+
+ Para as duas variáveis quantitativas da atividade 1 obter:
+
+ - o Resumo descritivo (por meio do recurso do excel - Ferramentas de análise a partir do botao análise de dados)
+
+ - os diagramas de caixas (usando o programa R) e já obtidos na atividade 1.
+
+ - as medidas de assimetria e curtose a partir dos comandos que constam  no script do R (que passei e usado na atividade 1). No script do R apresentei duas bibliotecas que possibilitam a obtençao de valores de assimetria e curtose.
+
+ Comparar os valores obtidos de assimetria e curtose (a partir do excel e das duas libraries do R contidas no script) com o diagrama de caixas.
+
+ Veja que voces terao 3 valores de assimetria e 3 valores de curtose para cada uma das variáveis quantitativas. Verifique quais valores de assimetria e curtose foram melhores ao compará-los com o diagrama de caixas.
+
+ Também é necessário que voces verifiquem as fórmulas de assimetria e curtose que estão sendo utilizadas nas duas bibliotecas do R (script passado). As formulas usadas pelo excel eu passei em aula.
+
+ Estou enviando uma lista de exercícios sobre assimetria e curtose (com graficos e resumos descritivos). O objetivo da lista é que voces saibam interpretar as medidas de assimetria e curtose. A lista também contém exercicios sobre tabelas de contingencia (dupla entrada para
+ duas variáveis).
+
+
+ Att,
+ Luzia
